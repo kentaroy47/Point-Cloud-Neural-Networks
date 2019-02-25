@@ -16,10 +16,6 @@ Classification, segmentation.
 Authors: Charles R. Qi, Li Yi, Hao Su, Leonidas J. Guibas
 
 ### CVPR 2018.
-[Frustum pointnets for 3d object detection from rgb-d data](http://openaccess.thecvf.com/content_cvpr_2018/html/Qi_Frustum_PointNets_for_CVPR_2018_paper.html)
-
-Authors: CR Qi, W Liu, C Wu, H Su, Leonidas J. Guibas
-
 [So-net: Self-organizing network for point cloud analysis](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.html)
 
 Authors: J Li, BM Chen, G Hee Lee
@@ -41,13 +37,28 @@ Authors: H Kato, Y Ushiku, T Harada
 
 ### arXiv
 
+## LiDAR-Camera Fusion
+[Frustum pointnets for 3d object detection from rgb-d data](http://openaccess.thecvf.com/content_cvpr_2018/html/Qi_Frustum_PointNets_for_CVPR_2018_paper.html)
+
+Authors: CR Qi, W Liu, C Wu, H Su, Leonidas J. Guibas
 
 ## Bird-view approach
-[Slideshare](https://www.slideshare.net/takmin/20181130-lidar-object-detection-survey)
+・[Slideshare](https://www.slideshare.net/takmin/20181130-lidar-object-detection-survey)
 
-[Fusing bird view lidar point cloud and front view camera image for deep object detection](https://arxiv.org/abs/1711.06703)
+・[Pixor: Real-time 3d object detection from point clouds](http://openaccess.thecvf.com/content_cvpr_2018/html/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.html)
+
+Authors: B Yang, W Luo, R Urtasun, CVPR2018.
+
+・点群を地面と平行にスライスし、各点群を画像チャネルとしてCNNへ入力。
+
+・[Fusing bird view lidar point cloud and front view camera image for deep object detection](https://arxiv.org/abs/1711.06703)
 
 Authors: Z Wang, W Zhan, M Tomizuka (Not really point cloud NN, but interesting approach.)
+
+[Complex-YOLO: An Euler-Region-Proposal for Real-Time 3D Object Detection on Point Clouds](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_11)
+
+Authors: M Simon, S Milz, K Amende, HM Gross, ECCV 2018.
+
 
 ## Graph Convolution
 [Dynamic graph cnn for learning on point clouds](https://arxiv.org/abs/1801.07829)
@@ -59,8 +70,16 @@ Authors: Y Wang, Y Sun, Z Liu, SE Sarma, MM Bronstein
 
 Authors: Y Zhou, O Tuzel, CVPR2018.
 
+## Others
+[Pedestrian-Detection Method based on 1D-CNN during LiDAR Rotation](https://ieeexplore.ieee.org/abstract/document/8569014)
+
+Authors: Yuki Kunisada ; Takayoshi Yamashita ; Hironobu Fujiyoshi, ICTS.
+
+
 ### slideshare
 [CVPR2018のPointCloudのCNN論文とSPLATNet](https://www.slideshare.net/takmin/cvpr2018pointcloudcnnsplatnet)
+
+
 
 ## TBD
 add technical points to each work.
