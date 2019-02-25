@@ -49,6 +49,9 @@ Authors: H Kato, Y Ushiku, T Harada
 
 Authors: Y Wang, Y Sun, Z Liu, SE Sarma, MM Bronstein
 
+[Fusing bird view lidar point cloud and front view camera image for deep object detection](https://arxiv.org/abs/1711.06703)
+
+Authors: Z Wang, W Zhan, M Tomizuka (Not really point cloud NN, but interesting approach.)
 
 ### slideshare
 [CVPR2018のPointCloudのCNN論文とSPLATNet](https://www.slideshare.net/takmin/cvpr2018pointcloudcnnsplatnet)
